@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a Senior Engineer in Motion Planning Algorithms at Automotive Intelligence and Control of China Co., Ltd. (国汽智控(北京)科技有限公司), primarily focusing on developing planning and control algorithms for autonomous vehicles, building simulation environments, and deploying and debugging algorithms in actual vehicles.
+I am a Senior Engineer in Motion Planning Algorithms at Automotive Intelligence and Control of China Co., Ltd., primarily focusing on developing planning and control algorithms for autonomous vehicles, building simulation environments, and deploying and debugging algorithms in actual vehicles.
+
+我就职于国汽智控（北京）科技有限公司，担任运动规划算法高级工程师。主要负责开发和实现自动驾驶汽车的规划和控制算法，参与构建仿真环境，负责实车PnC算法的部署与调试等工作。
 
 I enrolled in the Master of Engineering Science program at the University of Malaya in September 2021, after receiving my Bachelor of Engineering (B.E.) degree in July 2021 from Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU) (joint education).
 
