@@ -1,16 +1,10 @@
 ---
-# layout: archive
-# title: "CV"
-# permalink: /cv/
-# author_profile: true
-# redirect_from:
-#   - /resume
-permalink: /markdown/
+layout: archive
 title: "CV"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
@@ -30,14 +24,13 @@ Education
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work Experience
+======
 
 #### Automotive Intelligence and Control of China Co., Ltd. (Beijing)  
-
 **Senior Motion Planning Algorithm Engineer**  
-
 *July 2023 – Present*
 
-**Project 1: Implementation of L3 Autonomous Driving System for Urban/Highway NOA Based on Self-developed Computing Brain DEvelopment System (CBDES)**
+**Project 1: Implementation of L3 Autonomous Driving System for Urban/Highway NOA Based on Self-developed Computing Brain Development System (CBDES)**
 
 - Designed lateral and longitudinal control algorithms based on the ROS 2 system. In longitudinal control, implemented a cascaded PID controller (position-velocity PID and velocity-acceleration PID), reducing the vehicle's longitudinal speed control error to ±0.5 km/h; in lateral control, optimized the LQR control algorithm with vehicle speed-adaptive matrix updates, refined error calculation, and real-time discretization, reducing lateral error to ±0.2 m.
 
@@ -54,9 +47,7 @@ Work Experience
 - Led the construction of a multi-vehicle simulation Docker environment and real-vehicle driving scenarios for the Yutong BRT B7 line, optimizing vehicle docking logic and reducing docking time by 30%; developed global path publishing, lane line parsing and display, as well as obstacle and traffic sign visualization functions.
 
 #### Beijing SinoPark Technologies Co., Ltd.  
-
 **Autonomous Driving R&D Engineer**  
-
 *September 2022 – June 2023*
 
 - Led the development of L4 autonomous driving architecture based on the NVIDIA Orin platform and ROS 1, designing communication methods between the chassis and various sensors.
