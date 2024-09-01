@@ -14,10 +14,10 @@ The robot pathfinding method based on Reinforcement Learning (RL) provides the r
 
 
 The research work and innovations of this paper are summarized as follows:
-    · The classical Q-learning algorithm was optimized by incorporating the Eligibility Traces learning method, developing a Q(λ)-learning algorithm that unifies the Monte Carlo method with the Temporal Difference (TD) method, effectively extending robot path planning in complex environments.
 
 
-    · An updated policy for the robot's action-value function was implemented, introducing two exploration methods: ε-greedy and Softmax-Boltzmann Distribution. Combined with the optimized Q(λ)-learning algorithm, the probability distribution between exploration and exploitation was improved, along with the effectiveness and stability of the algorithm.
+· The classical Q-learning algorithm was optimized by incorporating the Eligibility Traces learning method, developing a Q(λ)-learning algorithm that unifies the Monte Carlo method with the Temporal Difference (TD) method, effectively extending robot path planning in complex environments.
 
+ · An updated policy for the robot's action-value function was implemented, introducing two exploration methods: ε-greedy and Softmax-Boltzmann Distribution. Combined with the optimized Q(λ)-learning algorithm, the probability distribution between exploration and exploitation was improved, along with the effectiveness and stability of the algorithm.
 
-    · Multiple comparative experiments on Reinforcement Learning algorithms were conducted based on the ROS 1 system. The results showed that this algorithm reduced the number of episodes and training by approximately 85%, demonstrating high robustness in finding the optimal path for autonomous robots in various complex environments.
+· Multiple comparative experiments on Reinforcement Learning algorithms were conducted based on the ROS 1 system. The results showed that this algorithm reduced the number of episodes and training by approximately 85%, demonstrating high robustness in finding the optimal path for autonomous robots in various complex environments.
