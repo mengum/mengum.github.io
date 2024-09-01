@@ -26,7 +26,7 @@ Education
 Work Experience
 ======
 
-#### Automotive Intelligence and Control of China Co., Ltd. (Beijing)  
+## Automotive Intelligence and Control of China Co., Ltd. (Beijing)  
 **Senior Motion Planning Algorithm Engineer**  
 *July 2023 – Present*
 
@@ -46,7 +46,7 @@ Work Experience
 
 - Led the construction of a multi-vehicle simulation Docker environment and real-vehicle driving scenarios for the Yutong BRT B7 line, optimizing vehicle docking logic and reducing docking time by 30%; developed global path publishing, lane line parsing and display, as well as obstacle and traffic sign visualization functions.
 
-#### Beijing SinoPark Technologies Co., Ltd.  
+## Beijing SinoPark Technologies Co., Ltd.  
 **Autonomous Driving R&D Engineer**  
 *September 2022 – June 2023*
 
