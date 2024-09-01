@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2021-07-01-paper-1
 excerpt: 'This study proposes a faster-converging Q(λ)-learning algorithm, optimizing robot pathfinding by balancing exploration and exploitation in complex environments.'
 date: 2021-07-01
-venue: 'Beijing University of Technology, Bachelor's Thesis'
+venue: 'Beijing University of Technology'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Meng Meng. (2021). &quot;Design and Implementation of a Robot Pathfinding Method Based on Reinforcement Learning.&quot; <i>Beijing University of Technology, Bachelor's Thesis</i>.'
+citation: 'Meng Meng. (2021). &quot;Design and Implementation of a Robot Pathfinding Method Based on Reinforcement Learning.&quot; <i>Beijing University of Technology</i>.'
 
 
 ---
