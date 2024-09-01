@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* University of Malaya, Malaysia | Master of Engineering Science by Research | Sep 2021-Jul 2022
+* Beijing University of Technology, China | Undergraduate (2+2 joint education) | Sep 2019 – Jul 2021
+  Major: Computer Science and Technology | GPA: 82.39/100.00 | Graduation Project Grade: 90.00/100.00 (Outstanding Graduate)
+* Qinghai Nationalities University, China | Bachelor's Degree in Engineering (Joint Education with Beijing University of Technology) | Sep 2017- Aug 2019
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
