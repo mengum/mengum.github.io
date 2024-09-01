@@ -2,12 +2,13 @@
 title: "Design and Implementation of the Robot Navigation Method Based on Reinforcement Learning"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2021-paper-1
+excerpt: 'This paper proposes a faster-converging Q(λ)-learning algorithm for autonomous robot pathfinding, addressing the balance between Exploration and Exploitation in Reinforcement Learning (RL). Key innovations include integrating Eligibility Traces with the Q-learning algorithm and enhancing exploration policies. Experiments demonstrate an 85% reduction in iteration and training times, validating the algorithm's robustness in complex environments.'
+date: 2021-07-01
+venue: 'Beijing University of Technology, Bachelor's Thesis
+# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Meng Meng. Design and Implementation of a Robot Navigation Method Based on Reinforcement Learning[D]. Beijing: Beijing University of Technology, 2021.'
 ---
 
 The robot pathfinding method based on Reinforcement Learning (RL) provides the robot with reward signals to perceive the unknown environment through continuous trial and error and eventually learns and selects the optimal behavioral policy to reach the target path. However, reinforcement learning has a balance issue between Exploration and Exploitation. In order to address this issue, this paper proposes a Q(λ)-learning algorithm with a faster convergence speed for robots to find the optimal path autonomously.
