@@ -1,10 +1,10 @@
 ---
-title: "Design and Implementation of a Robot Navigation Method Based on Reinforcement LearningThis paper proposes a faster-converging Q(λ)-learning algorithm for autonomous robot pathfinding, addressing the balance between Exploration and Exploitation in Reinforcement Learning (RL). Key innovations include integrating Eligibility Traces with the Q-learning algorithm and enhancing exploration policies. Experiments demonstrate an 85% reduction in iteration and training times, validating the algorithm's robustness in complex environments."
+title: "Design and Implementation of a Robot Navigation Method Based on Reinforcement Learning"
 collection: publications
-category: conferences
+category: theses
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2021-07-01
+excerpt: 'This paper proposes a faster-converging Q(λ)-learning algorithm for autonomous robot pathfinding, addressing the balance between Exploration and Exploitation in Reinforcement Learning (RL). Key innovations include integrating Eligibility Traces with the Q-learning algorithm and enhancing exploration policies. Experiments demonstrate an 85% reduction in iteration and training times, validating the algorithm's robustness in complex environments.'
+date: 2024-02-17
 venue: 'Beijing University of Technology, Bachelor's Thesis'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
