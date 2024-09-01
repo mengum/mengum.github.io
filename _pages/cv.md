@@ -1,10 +1,16 @@
 ---
-layout: archive
+# layout: archive
+# title: "CV"
+# permalink: /cv/
+# author_profile: true
+# redirect_from:
+#   - /resume
+permalink: /markdown/
 title: "CV"
-permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 {% include base_path %}
