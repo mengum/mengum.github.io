@@ -3,7 +3,7 @@ title: "Design and Implementation of the Robot Navigation Method Based on Reinfo
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Proposes a Q(λ)-learning algorithm for autonomous robot pathfinding, integrating Eligibility Traces with Q-learning. Demonstrates 85% reduction in training times.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
