@@ -25,8 +25,7 @@ Education
 
 Work Experience
 ======
-
-## Automotive Intelligence and Control of China Co., Ltd. (Beijing)  
+## Automotive Intelligence and Control of China (Beijing) Technology Co., Ltd.(AICC)
 **Senior Motion Planning Algorithm Engineer**  
 *July 2023 – Present*
 
@@ -46,7 +45,7 @@ Work Experience
 
 - Led the construction of a multi-vehicle simulation Docker environment and real-vehicle driving scenarios for the Yutong BRT B7 line, optimizing vehicle docking logic and reducing docking time by 30%; developed global path publishing, lane line parsing and display, as well as obstacle and traffic sign visualization functions.
 
-## Beijing SinoPark Technologies Co., Ltd.  
+## Beijing Sihetiandi Technology Co., Ltd.(SHTD) 
 **Autonomous Driving R&D Engineer**  
 *September 2022 – June 2023*
 
@@ -56,33 +55,36 @@ Work Experience
 
 - Designed and developed global path planning algorithms based on Hybrid A* and RRT*, as well as local path planning algorithms based on TEB and DWA.
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## University of Malaya, Malaysia  
+**Research Assistant in Autonomous Driving PnC Algorithms**  
+*September 2021 – July 2022*  
+Supervisors: **Chuah Joon Huang** (Professor, University of Cambridge) | **Rafidah Binti Md Noor** (Dean, Faculty of Computer Science)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Achieved efficient convergence in autonomous driving by implementing the DDPG algorithm through techniques such as prioritized experience replay, reward function optimization, and hyperparameter tuning.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Developed and implemented a robot autonomous planning and navigation method based on the A3C algorithm, optimizing the CNN data processing pipeline and reward function design.
+
+## Design and Implementation of a Robot Pathfinding Method Based on Reinforcement Learning  
+**Beijing University of Technology, Bachelor's Thesis (Project supported by the National Natural Science Foundation of China)**  
+*September 2020 – July 2021*
+
+- Optimized the classical Q-learning algorithm by incorporating eligibility traces and exploration strategies like ε-greedy and Softmax-Boltzmann distribution, proposing a rapidly converging Q(λ)-learning algorithm that improved the effectiveness and stability of robot path planning in complex environments.
+
+- Conducted multiple comparative experiments on reinforcement learning algorithms using the ROS 1 system. The results showed that the algorithm reduced the number of iterations and training times by approximately 85%, demonstrating the high robustness of the optimal pathfinding algorithm for autonomous robots in various complex environments.
   
-Skills
+Personal Strengths
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Proficient in autonomous driving decision-making, planning, and control algorithms. Skilled in advanced planning algorithms such as Lattice Planner, EM Planner, and reinforcement learning algorithms (DQN, DDPG, A3C, etc.), as well as classical path planning algorithms like Dijkstra, A*, and RRT. Expertise in vehicle lateral and longitudinal control algorithms, including PID, LQR, and MPC. Experienced with simulation platforms such as VTD, Carla, CarSim, Matlab, and Simulink. Proficient in using and developing on industrial computers based on the Linux system.
 
-Publications
+Professional Skills
+======
+**Programming Languages:** C, C++, Java, Python, Matlab, SQL, LabVIEW  
+**Software Tools and Frameworks:** ROS 1/2, Carla, CarSim, AirSim, VTD, Protobuf, OpenAI Gym, OpenCV, PyTorch, TensorFlow, UML  
+**English Proficiency:** IELTS Academic: 6.0
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -102,4 +104,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

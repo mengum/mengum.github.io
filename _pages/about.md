@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Engineer in Motion Planning Algorithms at Automotive Intelligence and Control of China Co., Ltd., primarily focusing on developing planning and control algorithms for autonomous vehicles, building simulation environments, and deploying and debugging algorithms in actual vehicles.
+I am a Senior Engineer in Motion Planning Algorithms at Automotive Intelligence and Control of China (Beijing) Technology Co., Ltd.(AICC), primarily focusing on developing planning and control algorithms for autonomous vehicles, building simulation environments, and deploying and debugging algorithms in actual vehicles.
 
 我就职于国汽智控（北京）科技有限公司，担任运动规划算法高级工程师。主要负责开发和实现自动驾驶汽车的规划和控制算法，参与构建仿真环境，负责实车PnC算法的部署与调试等工作。
 
 I enrolled in the Master of Engineering Science program at the University of Malaya in September 2021, after receiving my Bachelor of Engineering (B.E.) degree in July 2021 from Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU) (joint education).
+
+我于2021年9月入读马来亚大学的工程科学硕士项目，此前于2021年7月获得北京工业大学和青海民族大学（联合培养）授予的工学学士学位。
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
