@@ -7,7 +7,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'Beijing University of Technology, Bachelor's Thesis'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>Beijing University of Technology, Bachelor's Thesis</i>. 1(3).'
 ---
 
 The robot pathfinding method based on Reinforcement Learning (RL) provides the robot with reward signals to perceive the unknown environment through continuous trial and error and eventually learns and selects the optimal behavioral policy to reach the target path. However, reinforcement learning has a balance issue between Exploration and Exploitation. In order to address this issue, this paper proposes a Q(λ)-learning algorithm with a faster convergence speed for robots to find the optimal path autonomously.
