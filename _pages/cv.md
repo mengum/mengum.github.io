@@ -17,15 +17,13 @@ Education
 * Sep 2019 – Jul 2021 \| Beijing University of Technology, China \| Undergraduate (2+2 joint education)
   Major: Computer Science and Technology \| GPA: 82.39/100.00 \| Graduation Project Grade: 90.00/100.00 (Outstanding Graduate)
 
-* Sep 2017- Aug 2019 \| Qinghai Nationalities University, China \| Bachelor's Degree in Engineering (Joint Education with Beijing University of Technology)
+* Sep 2017- Aug 2019 \| Qinghai Nationalities University, China \| Bachelor of Engineering (Joint Education with Beijing University of Technology)
   Major: Computer Science and Technology \| GPA: 87.97/100.00
-
-
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
 
 Work Experience
 ======
-
 ## Automotive Intelligence and Control of China (Beijing) Technology Co., Ltd.(AICC)
 **Senior Motion Planning Algorithm Engineer**  
 *July 2023 – Present*
@@ -58,7 +56,6 @@ Work Experience
 
 Research Experience
 ======
-
 ## University of Malaya, Malaysia  
 **Research Assistant in Autonomous Driving PnC Algorithms**  
 *September 2021 – July 2022*  
@@ -78,12 +75,10 @@ Supervisors: **Chuah Joon Huang** (Professor, University of Cambridge) | **Rafid
   
 Personal Strengths
 ======
-
 Proficient in autonomous driving decision-making, planning, and control algorithms. Skilled in advanced planning algorithms such as Lattice Planner, EM Planner, and reinforcement learning algorithms (DQN, DDPG, A3C, etc.), as well as classical path planning algorithms like Dijkstra, A*, and RRT. Expertise in vehicle lateral and longitudinal control algorithms, including PID, LQR, and MPC. Experienced with simulation platforms such as VTD, Carla, CarSim, Matlab, and Simulink. Proficient in using and developing on industrial computers based on the Linux system.
 
 Professional Skills
 ======
-
 **Programming Languages:** C, C++, Java, Python, Matlab, SQL, LabVIEW  
 **Software Tools and Frameworks:** ROS 1/2, Carla, CarSim, AirSim, VTD, Protobuf, OpenAI Gym, OpenCV, PyTorch, TensorFlow, UML, NumPy, Pandas  
 **English Proficiency:** IELTS Academic: 6.0
