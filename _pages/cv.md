@@ -14,11 +14,13 @@ Education
 
 * Sep 2021-Jul 2022 \| University of Malaya, Malaysia \| Master of Engineering Science by Research
 
-* Sep 2019 – Jul 2021 | Beijing University of Technology, China | Undergraduate (2+2 joint education)<br>
-  Major: Computer Science and Technology | GPA: 82.39/100.00 | Graduation Project Grade: 90.00/100.00 (Outstanding Graduate)
+* Sep 2019 – Jul 2021 \| Beijing University of Technology, China \| Undergraduate (2+2 joint education)<br>
+  Major: Computer Science and Technology \| GPA: 82.39/100.00 \| Graduation Project Grade: 90.00/100.00 (Outstanding Graduate)
 
-* Sep 2017- Aug 2019 | Qinghai Nationalities University, China | Bachelor of Engineering (Joint Education with Beijing University of Technology)<br>
-  Major: Computer Science and Technology | GPA: 87.97/100.00<br>
+* Sep 2017- Aug 2019 \| Qinghai Nationalities University, China \| Bachelor of Engineering (Joint Education with Beijing University of Technology)<br>
+  Major: Computer Science and Technology \| GPA: 87.97/100.00
+    
+  <br>
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
