@@ -90,8 +90,8 @@ Specialize in the design, optimization, and validation of decision-making and pl
 
 Technical Skills
 ======
-**Programming Languages:** C/C++, Java, Python, Matlab
-**Software Tools and Frameworks:** ROS 1/2, Carla, CarSim, AirSim, VTD, Protobuf, OpenAI Gym, OpenCV, PyTorch 
+**Programming Languages:** C/C++, Java, Python, Matlab <br>
+**Software Tools and Frameworks:** ROS 1/2, Carla, CarSim, AirSim, VTD, Protobuf, OpenAI Gym, OpenCV, PyTorch <br>
 **English Proficiency:** Master’s programme conducted entirely in English
 
 <!-- Publications
