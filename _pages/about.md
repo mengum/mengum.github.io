@@ -11,9 +11,9 @@ I am a Senior Autonomous Driving Algorithms Engineer at Guangzhou Qichen Technol
 
 我在广州祺辰科技有限公司（广汽集团 - 如祺出行）任高级自动驾驶算法工程师，负责商用与 Robotaxi 场景下的规划与决策算法开发，包括结构化/非结构化道路的跟车、超车与变道等模型设计与后处理实现。
 
-I enrolled in the Master of Engineering Science (Research) programme at the University of Malaya in September 2022, equivalent to an MPhil; I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
+I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to an MPhil), which began in September 2022; I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
 
-我于 2022 年 9 月在马来亚大学注册攻读工程科学硕士（研究型）学位，相当于哲学硕士；此前，我于 2021 年 7 月从北京工业大学和青海民族大学联合培养项目获得了工程学士学位。
+我目前正在马来亚大学攻读工程科学硕士（研究型）学位（相当于MPhil），该学位于 2022 年 9 月开始；此前，我于 2021 年 7 月从北京工业大学和青海民族大学联合培养项目获得了工程学士学位。
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
