@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 
-* Sep 2022 - Present | University of Malaya, Malaysia \| Master of Engineering Science by Research (Equivalent to the MPhil)<br>
+* Sep. 2022 - Present | University of Malaya, Malaysia \| Master of Engineering Science by Research (Equivalent to the MPhil)<br>
   Research Area: Autonomous Driving Planning and Decision-making Algorithm
 
-* Sep 2019 – Jul 2021 \| Beijing University of Technology, China \| Undergraduate (2+2 joint education)<br>
+* Sep. 2019 – July 2021 \| Beijing University of Technology, China \| Undergraduate (2+2 joint education)<br>
   Major: Computer Science and Technology \| GPA: 82.39/100.00 \| Graduation Project Grade: 90.00/100.00 (Outstanding Graduate)
 
-* Sep 2017- Aug 2019 \| Qinghai Nationalities University, China \| Bachelor's Degree in Engineering (Joint Education with BJUT)<br>
+* Sep. 2017 – Aug. 2019 \| Qinghai Nationalities University, China \| Bachelor's Degree in Engineering (Joint Education with BJUT)<br>
   Major: Computer Science and Technology \| GPA: 87.97/100.00<br>
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
@@ -70,7 +70,7 @@ Research Experience
 ======
 ## University of Malaya, Malaysia  
 **Implementation of End-to-End Autonomous Driving Decision-Making Technology Based on Deep Reinforcement Learning**  
-*September 2022 – Present*  
+*Sep. 2025 - Present*  
 Supervisors: **Chuah Joon Huang** - President & CEO, Southern University College (Malaysia) | **Anis Salwa Binti Mohd Khairuddin** - Head of Department, Electrical Engineering, Faculty of Engineering, University of Malaya (Malaysia)
 
 - Enhanced the sample efficiency of the DDPG algorithm and accelerated end-to-end convergence by employing prioritized experience replay, dynamic hyperparameter adjustment, and staged parallel training.
@@ -79,7 +79,7 @@ Supervisors: **Chuah Joon Huang** - President & CEO, Southern University College
 
 ## Design and Implementation of a Robot Pathfinding Method Based on Reinforcement Learning  
 **Beijing University of Technology, Bachelor's Thesis (Project supported by the National Natural Science Foundation of China)**  
-*Sep. 2020 – Jun. 2021*
+*Dec. 2020 - July 2021*
 
 - Proposed and evaluated two action-selection mechanisms (ε-greedy and Boltzmann-softmax), integrating them with an eligibility-trace Q(λ) learner to improve convergence and robustness.
 - Built a Python simulation with interactive visualization to display policy evolution, action probabilities, and cumulative rewards in real time, enabling parameter tuning and reproducible experiments.
