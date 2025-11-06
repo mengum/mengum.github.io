@@ -11,7 +11,7 @@ I am a Senior Autonomous Driving Algorithms Engineer at Guangzhou Qichen Technol
 
 我在广州祺辰科技有限公司（广汽集团 - 如祺出行）任高级自动驾驶算法工程师，负责商用与 Robotaxi 场景下的规划与决策算法开发，包括结构化/非结构化道路的跟车、超车与变道等模型设计与后处理实现。
 
-I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to an MPhil), which began in September 2022; I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
+I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to the MPhil), which began in September 2022; I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
 
 我目前正在马来亚大学攻读工程科学硕士（研究型）学位（相当于MPhil），该学位于 2022 年 9 月开始；此前，我于 2021 年 7 月从北京工业大学和青海民族大学联合培养项目获得了工程学士学位。
 
