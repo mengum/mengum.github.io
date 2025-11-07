@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Autonomous Driving Algorithms Engineer at Guangzhou Qichen Technology Co., Ltd. (GAC Group — Ruqi Mobility), responsible for developing planning and decision-making algorithms for commercial vehicles and robotaxis, including the design of models and post-processing for car-following, overtaking, and lane-change scenarios on both structured and unstructured roads.
+I am a Senior Autonomous Driving Algorithms Engineer at Guangzhou Qichen Technology Co., Ltd. (GAC GroupRuqi Mobility), responsible for developing planning and decision-making algorithms for commercial vehicles and robotaxis, including the design of models and post-processing for car-following, overtaking, and lane-change scenarios on both structured and unstructured roads.
 
 我在广州祺辰科技有限公司（广汽集团 - 如祺出行）任高级自动驾驶算法工程师，负责商用与 Robotaxi 场景下的规划与决策算法开发，包括结构化/非结构化道路的跟车、超车与变道等模型设计与后处理实现。
 
