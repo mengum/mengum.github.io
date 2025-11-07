@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Meng Meng"
 title_separator          : "-"
-name                     : &name "Meng Meng (孟猛)"
+name                     : &name "孟猛 (Meng Meng)"
 description              : &description "personal description"
 url                      : https://mengum.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "mengum/mengum.github.io" # GitHub repository to help
 author:
   # Biographic information
   avatar           : "Meng.png"
-  name             : "Meng Meng (孟猛)"
+  name             : "孟猛 (Meng Meng)"
   pronouns         : # example: "she/her"  
   bio              : "Autonomous Driving PnC Algorithm Engineer"
   location         : "Beijing, China"
