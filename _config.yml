@@ -12,7 +12,7 @@ title                    : "Meng Meng"
 title_separator          : "-"
 name                     : &name "Meng Meng | 孟猛"
 description              : &description "personal description"
-url                      : https://mengum.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://meng.bjut.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengum/mengum.github.io" # GitHub repository to help with GitHub Pages deployment
 # repository               : "academicpages/academicpages.github.io"
