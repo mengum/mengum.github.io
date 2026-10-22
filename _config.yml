@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Meng Meng"
 title_separator          : "-"
 name                     : &name "Meng Meng | 孟猛"
-description              : &description "Autonomous Driving Algorithm Engineer | PnC, Planning, Multimodal Embodied AI"
+description              : &description "MPhil candidate at the University of Malaya | Autonomous Driving and Embodied AI"
 url                      : https://mengum.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengum/mengum.github.io" # GitHub repository to help with GitHub Pages deployment
@@ -24,10 +24,10 @@ author:
   avatar           : "Meng.png"
   name             : "Meng Meng | 孟猛"
   pronouns         : # example: "she/her"  
-  bio              : "End-to-End Autonomous Driving PnC Algorithm Engineer"
-  location         : "Beijing, China"
-  employer         : "Neolix Technologies Co., Ltd."
-  uri              : "https://www.neolix.ai/"
+  bio              : "MPhil Candidate | Autonomous Driving & Embodied AI"
+  location         : "Kuala Lumpur, Malaysia"
+  employer         : "University of Malaya"
+  uri              : "https://www.um.edu.my/"
   email            : "meng.bjut@gmail.com" 
 
   # Academic websites

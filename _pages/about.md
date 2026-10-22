@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Autonomous Driving Algorithm Engineer at Neolix Technologies Co., Ltd. (新石器慧通科技股份有限公司), where I develop end-to-end planning and decision-making algorithms for autonomous logistics vehicles. My work covers online visual mapping and environmental reasoning, road-network topology construction, and the navigation pipeline that converts global routing intent into lane-level reference lines for motion planning, on both structured and unstructured roads.
-
-我在新石器慧通科技股份有限公司（Neolix Technologies）任高级自动驾驶算法工程师，负责自动驾驶物流车场景下的端到端规划与决策算法开发，包括在线视觉建图与环境推理、路网拓扑构建，以及将全局导航意图转化为车道级参考线的导航管线设计，覆盖结构化与非结构化道路。
-
 I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to an MPhil), which began in September 2022, under the supervision of [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html); I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
 
 我目前正在马来亚大学攻读工程科学硕士（研究型）学位（相当于MPhil），该学位于 2022 年 9 月开始，师从 [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) 和 [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html)；此前，我于 2021 年 7 月从北京工业大学和青海民族大学联合培养项目获得了工程学士学位。
+
+I am a Senior Autonomous Driving Algorithm Engineer at Neolix Technologies Co., Ltd. (新石器慧通科技股份有限公司), where I develop end-to-end planning and decision-making algorithms for autonomous logistics vehicles. My work covers online visual mapping and environmental reasoning, road-network topology construction, and the navigation pipeline that converts global routing intent into lane-level reference lines for motion planning, on both structured and unstructured roads.
+
+我在新石器慧通科技股份有限公司（Neolix Technologies）任高级自动驾驶算法工程师，负责自动驾驶物流车场景下的端到端规划与决策算法开发，包括在线视觉建图与环境推理、路网拓扑构建，以及将全局导航意图转化为车道级参考线的导航管线设计，覆盖结构化与非结构化道路。
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
