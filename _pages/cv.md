@@ -46,7 +46,7 @@ Research Experience
 Work Experience (Full-time)
 ======
 
-## Neolix Technologies Co., Ltd. (新石器)
+## Neolix Technologies Co., Ltd. (新石器慧通科技股份有限公司)
 **Senior Autonomous Driving Algorithm Engineer**  
 *Mar. 2026 - Present*
 

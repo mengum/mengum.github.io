@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Autonomous Driving Algorithm Engineer at Neolix Technologies Co., Ltd. (新石器), where I develop planning and decision-making algorithms for autonomous logistics vehicles. My work covers online visual mapping and environmental reasoning, road-network topology construction, and the navigation pipeline that converts global routing intent into lane-level reference lines for motion planning, on both structured and unstructured roads.
+I am a Senior Autonomous Driving Algorithm Engineer at Neolix Technologies Co., Ltd. (新石器慧通科技股份有限公司), where I develop end-to-end planning and decision-making algorithms for autonomous logistics vehicles. My work covers online visual mapping and environmental reasoning, road-network topology construction, and the navigation pipeline that converts global routing intent into lane-level reference lines for motion planning, on both structured and unstructured roads.
 
-我在新石器科技有限公司（Neolix Technologies）任高级自动驾驶算法工程师，负责自动驾驶物流车场景下的规划与决策算法开发，包括在线视觉建图与环境推理、路网拓扑构建，以及将全局导航意图转化为车道级参考线的导航管线设计，覆盖结构化与非结构化道路。
+我在新石器慧通科技股份有限公司（Neolix Technologies）任高级自动驾驶算法工程师，负责自动驾驶物流车场景下的端到端规划与决策算法开发，包括在线视觉建图与环境推理、路网拓扑构建，以及将全局导航意图转化为车道级参考线的导航管线设计，覆盖结构化与非结构化道路。
 
 I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to an MPhil), which began in September 2022, under the supervision of [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html); I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
 
