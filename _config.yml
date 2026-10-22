@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Meng Meng"
 title_separator          : "-"
 name                     : &name "Meng Meng | 孟猛"
-description              : &description "personal description"
+description              : &description "Autonomous Driving Algorithm Engineer | PnC, Planning, Multimodal Embodied AI"
 url                      : https://mengum.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengum/mengum.github.io" # GitHub repository to help with GitHub Pages deployment
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Autonomous Driving PnC Algorithm Engineer"
   location         : "Beijing, China"
-  employer         : "Universiti Malaya"
-  uri              : "https://www.um.edu.my/"
+  employer         : "Neolix Technologies Co., Ltd."
+  uri              : "https://www.neolix.ai/"
   email            : "meng.bjut@gmail.com" 
 
   # Academic websites
@@ -77,9 +77,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-     
+  journals:
+    title: 'Journal Articles'
+
   conferences:
     # title: 'Conference Papers'
     title: 'Theses' 

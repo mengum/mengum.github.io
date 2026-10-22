@@ -9,109 +9,115 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+
+Meng Meng (孟猛) &nbsp;|&nbsp; +86 13756221062 (WhatsApp/WeChat) &nbsp;|&nbsp; meng.bjut@gmail.com &nbsp;|&nbsp; [https://mengum.github.io/](https://mengum.github.io/)
+
 Education
 ======
 
-* Sep. 2022 - Present | University of Malaya, Malaysia \| Master of Engineering Science by Research (Equivalent to the MPhil)<br>
-  Research Area: Autonomous Driving Planning and Decision-making Algorithm
+## University of Malaya, Malaysia
+*Sep. 2022 - Present* &nbsp;|&nbsp; Master of Engineering Science by Research (MPhil / Full-time)  
+Supervisors: [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html)
 
-* Sep. 2019 – July 2021 \| Beijing University of Technology, China \| Undergraduate (2+2 joint education)<br>
-  Major: Computer Science and Technology \| GPA: 82.39/100.00 \| Graduation Project Grade: 90.00/100.00 (Outstanding Graduate)
+## Beijing University of Technology (BJUT), China
+*Sep. 2017 - July 2021* &nbsp;|&nbsp; Computer Science and Technology | GPA: 82.39/100.00 | Outstanding Graduate  
+B.Eng. (2+2 Joint Degree with QNU), Full-time | National Project 211 University
 
-* Sep. 2017 – Aug. 2019 \| Qinghai Nationalities University, China \| Bachelor's Degree in Engineering (Joint Education with BJUT)<br>
-  Major: Computer Science and Technology \| GPA: 87.97/100.00<br>
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+## Qinghai Nationalities University (QNU), China
+Computer Science and Technology | GPA: 87.97/100.00
 
-
-Work Experience
+Publication
 ======
-## Guangzhou Qichen Technology Co., Ltd. (GAC Group - Ruqi Chuxing)
-**Senior Autonomous Driving Algorithm Engineer**  
-*Oct. – Present* 
-**Project 1: Two-Stage Decision-Planning Architecture for Complex Urban Scenarios (Intersections & Merging)**
-- **Decision-making Stage**: Engineered using Soft Actor-Critic (SAC) to produce robust merging and yielding behaviors at complex intersections and merging lanes. The optimized reward heavily penalizes time-to-collision while rewarding efficiency, enabling decisive navigation at unprotected intersections and in dense traffic.
 
-- **Planning Stage**: Implemented via an EM Planner that performs trajectory-level refinement and arbitration among SAC candidates. Improved planner efficiency by incorporating the model’s predicted intent as a prior for heuristic search and by tuning the Quadratic Programming (QP) constraints to guarantee dynamic feasibility and safety during complex maneuvers (e.g., gap insertion).
-
-**Project 2: Automated Topological Generation and Perception Post-Processing for the Crowdsourced Mapping (in Guangzhou, China)**
-- **Automated Topo Generation**: Constructed geometric topological relationships between lane lines, generating self-consistent virtual lanes from trajectories (60% completion). Utilized perception centerlines matching actual lanes, establishing spatial correspondence, enhancing completion to 80%.
-
-- **Diverge/Merge Detection and Connection**: Devised a post-processing framework to mitigate perception errors and reliably detect and connect complex diverging and merging areas. It analyzes geometric cues such as curb and lane distances to locate connection zones and construct smooth, topologically sound geometry. In a test on the 30 km map dataset from the GAC Group, it achieved 89.71% diverging detection (63.93% overall correct connection) and 71.68% merging detection (58.15% overall correct connection).
-
-**Project 3: Planning-Based Reference Path Generation for Complex Intersections from Multi-Source Experience Trajectory Data**
-- **Traffic Flow Model**: Contributed to a system for processing multi-source vehicular experience trajectories (UBM, MOT) to enhance path generation. It involved applying clustering algorithms (e.g., on crosswalks) and convex hull computations for automated recognition of intersections. Abstracted massive trajectory data into scalar density and vector direction fields, creating a traffic flow model.   
-
-- **Planning generates the reference path**: A planning algorithm integrated traffic flow density and direction with QP and Bézier curves to ensure kinematic feasibility and robust, efficient trajectory generation, producing the intersection reference line. To improve stability and efficiency, an adaptive dual-planner strategy was used: Reeds-Shepp (simple scenarios) and hybrid A* (complex turns).
-
-## Automotive Intelligence and Control of China (Beijing) Technology Co., Ltd.(AICC)
-**Senior Motion Planning Algorithm Engineer**  
-*July 2023 – Aug. 2024*
-
-**Project 1: Implementation of L3 Autonomous Driving System for Urban/Highway NOA Based on Self-developed Computing Brain Development System (CBDES)**
-
- - **Longitudinal Control Algorithm**: Designed a high-performance longitudinal control algorithm for highway scenarios, employing a cascaded PID (position–velocity PID and velocity–acceleration PID) strategy. This system consistently maintained a speed-tracking error within ±0.5 km/h.
-
- - **Decision-making and Planning Algorithm**: Developed and optimized the Lattice Planner algorithm. Integrated multi-layer FSM decision-making, multi-constraint checks, collision-detection modules and path smoothing, reducing planning time and improving safety and decisions in dynamic environments.
-
-**Project 2: Implementation of L3 Autonomous Driving System for Yutong BRT B7 Line Based on Huawei MDC 610 Domain Control Platform**
-
-- **Multi-Agent Behavior Planning**: Developed and optimized a behavior planning framework based on the POMDP algorithm, constructed a collision prediction model for surrounding vehicles, and designed and updated the evaluation function. Implemented the vehicle’s Nudge function, increasing pedestrian avoidance and temporary obstacle avoidance success rates to 90%.
-
-- **Motion Planning and Communication Integration**: Optimize motion planning algorithms based on the Spatio-Spatial Semantic Corridor (SSC) structure, uniformly model driving environment constraints, and refine planned trajectories. Established communication between the SSC structure and the ROS 2 system, enabling the publication and transmission of planned trajectories and other data.
-
-## Beijing Sihetiandi Technology Co., Ltd.(SHTD) 
-**Autonomous Driving R&D Engineer**  
-*Sep. 2022 – June 2023*
-- Coordinated mass-production deployment of an L4 autonomous driving stack on NVIDIA Orin; defined communication protocols between chassis and heterogeneous sensors; provided real-time mapping and navigation solutions based on SLAM (e.g., Cartographer) and GNSS for indoor and outdoor positioning.
-
-- Architected global path-planning based on Hybrid A* and local planning modules employing Timed Elastic Band (TEB) to ensure kinematic feasibility and meet real-time performance requirements.
+## DBP-Plan: A Driving-Experience Layer for Reference-Line Generation at Urban Intersections
+*IEEE Transactions on Intelligent Transportation Systems (T-ITS) | SCI Q1*
 
 Research Experience
 ======
-## University of Malaya, Malaysia  
-**Implementation of End-to-End Autonomous Driving Decision-Making Technology Based on Deep Reinforcement Learning**  
-*Sep. 2025 - Present*  
-Supervisors: **Chuah Joon Huang** - President & CEO, Southern University College (Malaysia) | **Anis Salwa Binti Mohd Khairuddin** - Head of Department, Electrical Engineering, Faculty of Engineering, University of Malaya (Malaysia)
 
-- Enhanced the sample efficiency of the DDPG algorithm and accelerated end-to-end convergence by employing prioritized experience replay, dynamic hyperparameter adjustment, and staged parallel training.
+## University of Malaya, Malaysia
+**Multimodal Embodied Policy Co-Training with Imitation and Reinforcement Learning**  
+*Master of Engineering Science by Research, Sep. 2022 - Present*
 
-- Designed an adaptive reward function and introduced multi-objective balancing strategies (e.g., trade-offs among safety, comfort, and efficiency), improving decision-making and planning performance.
+- Integrated expert demonstration trajectories based on multimodal visual perception and joint state sequences to construct a continuous action-chunked decision space tailored for long-horizon manipulation. Adopted a two-stage co-training paradigm that extracts human manipulation priors via supervised imitation learning before incorporating progressively weighted Proximal Policy Optimization (PPO) for online interactive trial-and-error, effectively mitigating single-step error accumulation and enhancing manipulation robustness in unseen scenarios.
 
-## Design and Implementation of a Robot Pathfinding Method Based on Reinforcement Learning  
-**Beijing University of Technology, Bachelor's Thesis (Project supported by the National Natural Science Foundation of China)**  
-*Dec. 2020 - July 2021*
+Work Experience (Full-time)
+======
 
-- Proposed and evaluated two action-selection mechanisms (ε-greedy and Boltzmann-softmax), integrating them with an eligibility-trace Q(λ) learner to improve convergence and robustness.
-- Built a Python simulation with interactive visualization to display policy evolution, action probabilities, and cumulative rewards in real time, enabling parameter tuning and reproducible experiments.
-  
+## Neolix Technologies Co., Ltd. (新石器)
+**Senior Autonomous Driving Algorithm Engineer**  
+*Mar. 2026 - Present*
+
+**Project 1: Online Visual Mapping and Environmental Reasoning System**
+
+- **Online Visual Mapping & Algorithm Deployment**: Spearheaded the production deployment of a vision-only mapping and environmental reasoning solution. Designed a robust mapping pipeline incorporating lane segment merging, head-to-tail stitching, Catmull-Rom spline smoothing, and same-side assembly to handle incomplete and noisy multi-source perception inputs; constructed a stable, unified environmental representation tailored for downstream decision-making and planning, enabling continuous autonomous logistics delivery across over 20 kilometers of mapless road sections.
+
+- **Road Network Topology Construction & RL Exploration**: Built a road network search graph from lane geometry and lateral reachability for lane-level localization. Explored Reinforcement Learning (RL) to optimize mapless environmental reasoning by formulating lane completion as autoregressive graph node generation; designed connectivity rewards to replace heuristic geometric matching, significantly enhancing topological connectivity and robustness at complex intersections.
+
+**Project 2: Navigation Pipeline Governance and Reference Line System Optimization**
+
+- **Navigation Intent Parsing & Lane-Change Planning Optimization**: Optimized global routing parsing and mapping logic to bridge macroscopic navigation intents with microscopic lane-change reference lines. Refined reference line generation and smoothing algorithms to provide a high-quality trajectory search space for motion planning; enhanced lane selection and lane-change decisions in complex road geometries (e.g., merging/diverging zones), substantially improving autonomous lane-change success rates and stability in dynamic traffic.
+
+## Guangzhou Automobile Group Co., Ltd. (GAC Group)
+**Senior Autonomous Driving Algorithm Engineer**  
+*Oct. 2024 - Feb. 2026*
+
+**Project 1: Trajectory Planning and Reference-Line Generation in Complex Scenarios**
+
+- **Driving-Experience Layer Construction**: Partitioned crowdsourced trajectories based on origin-destination topological relationships to form human driving experience corridors. Decoupled trajectory support from directional consistency, characterizing empirical driving trajectories via a coherence-aware anisotropic tensor field to provide behavioral priors for complex intersection planning.
+
+- **Intersection Reference Line Search & Generation**: Transformed the empirical tensor field into arc-length-integrated edge costs, leveraging both density and directional tensors to guide node expansion and analytical goal connection in Hybrid A*; ensured path search convergence toward human-like driving corridors between topological poses, outputting continuous reference lines after post-smoothing.
+
+**Project 2: Automated Topology Generation and Perception Post-Processing for SD Pro Maps**
+
+- **Lane Topology Completion & Merge/Diverge Construction**: Constructed lane geometric topology by matching vehicle trajectories with perceived centerlines to auto-generate self-consistent virtual lanes, boosting urban map completeness to over 90%. Designed a perception post-processing framework to suppress upstream noise, leveraging geometric cues like curb-to-lane distances to accurately localize and reliably connect complex merging and diverging zones into smooth, topologically valid structures.
+
+## Automotive Intelligence and Control of China Co., Ltd. (AICC)
+**Senior Autonomous Driving Motion Planning Engineer**  
+*July 2023 - Aug. 2024*
+
+**Project 1: Implementation of L3 Autonomous Driving System for Urban/Highway NOA based on the Computational Base and DevElopment System (CBDES)**
+
+- **Longitudinal Control Algorithm**: Designed a high-performance longitudinal control algorithm for highway scenarios, employing a cascaded PID (position–velocity PID and velocity–acceleration PID) strategy. This system consistently maintained a speed-tracking error within ±0.5 km/h.
+
+- **Decision-making and Planning Algorithm**: Developed and optimized the Lattice Planner algorithm. Integrated multi-layer FSM decision-making, multi-constraint checks, collision-detection modules and path smoothing, reducing planning time and improving safety and decisions in dynamic environments.
+
+**Project 2: Implementation of L3 Autonomous Driving System for Yutong B7 Rapid Transit Line**
+
+- **Multi-Agent Behavior Planning**: Developed and optimized a behavior planning framework based on the POMDP algorithm, constructed a collision prediction model for surrounding vehicles, and designed and updated the evaluation function. Implemented the vehicle's Nudge function, increasing pedestrian avoidance and temporary obstacle avoidance success rates to 90%.
+
+- **Motion Planning and Communication Integration**: Optimized motion planning algorithms based on the Spatio-Spatial Semantic Corridor (SSC) structure, uniformly modelled driving environment constraints, and refined planned trajectories. Established communication between the SSC structure and the ROS 2 system, enabling the publication and transmission of planned trajectories and other data.
+
 Key Strengths
 ======
-Specialize in the design, optimization, and validation of decision-making and planning algorithms for autonomous vehicles, with hands-on expertise in reinforcement learning methods (DQN, SAC), advanced planners (Lattice Planner, EM Planner, POMDP frameworks) and classical graph/search algorithms (Dijkstra, A*), as well as longitudinal and lateral vehicle controllers (PID). Conduct large-scale simulation studies and performance validation on platforms such as VTD, Carla, and CarSim, and manage system integration and deployment on Linux-based industrial computers.
+Specialized in end-to-end decision-making, planning, and multimodal embodied algorithms for structured and unstructured environments, bridging academic research depth and engineering deployment. Well-versed in Reinforcement Learning (PPO, SAC, etc.), POMDP, and hybrid imitation-RL training paradigms, as well as action generation models such as VLA, Diffusion, and Flow Matching. Adept at fusing data-driven end-to-end policies with classical motion planning (Hybrid A*, numerical optimization) for safety assurance, effectively resolving generalization bottlenecks in complex interactions. Familiar with low-level closed-loop control (PID/LQR) and proficient in constructing simulation and transfer loops via ROS 1/2, MuJoCo, Isaac, and Gazebo to drive the deployment of general embodied systems.
 
 Technical Skills
 ======
-**Programming Languages:** C/C++, Java, Python, Matlab <br>
-**Software Tools and Frameworks:** ROS 1/2, Carla, CarSim, VTD, Protobuf, OpenAI Gym, OpenCV, PyTorch <br>
-**English Proficiency:** Master’s programme conducted entirely in English
+**Programming Languages:** C/C++, Python <br>
+**Software Tools:** ROS 1/2, MuJoCo, Isaac, Gazebo, CARLA, CarSim, VTD, OpenAI Gym, PyTorch <br>
+**English Proficiency:** IELTS Academic: 6.5
 
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
