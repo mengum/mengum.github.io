@@ -43,7 +43,7 @@ Research Experience
 Work Experience (Full-time)
 ======
 
-## Neolix Technologies Co., Ltd. (新石器慧通科技股份有限公司)
+## [Neolix Technologies Co., Ltd.](https://www.neolix.ai/) (新石器慧通科技股份有限公司)
 **Senior Autonomous Driving Algorithm Engineer**  
 *Mar. 2026 - Present*
 
@@ -57,7 +57,7 @@ Work Experience (Full-time)
 
 - **Navigation Intent Parsing & Lane-Change Planning Optimization**: Optimized global routing parsing and mapping logic to bridge macroscopic navigation intents with microscopic lane-change reference lines. Refined reference line generation and smoothing algorithms to provide a high-quality trajectory search space for motion planning; enhanced lane selection and lane-change decisions in complex road geometries (e.g., merging/diverging zones), substantially improving autonomous lane-change success rates and stability in dynamic traffic.
 
-## Guangzhou Automobile Group Co., Ltd. (GAC Group)
+## [Guangzhou Automobile Group Co., Ltd.](https://www.gac.com.cn/) (GAC Group)
 **Senior Autonomous Driving Algorithm Engineer**  
 *Oct. 2024 - Feb. 2026*
 
@@ -71,7 +71,7 @@ Work Experience (Full-time)
 
 - **Lane Topology Completion & Merge/Diverge Construction**: Constructed lane geometric topology by matching vehicle trajectories with perceived centerlines to auto-generate self-consistent virtual lanes, boosting urban map completeness to over 90%. Designed a perception post-processing framework to suppress upstream noise, leveraging geometric cues like curb-to-lane distances to accurately localize and reliably connect complex merging and diverging zones into smooth, topologically valid structures.
 
-## Automotive Intelligence and Control of China Co., Ltd. (AICC)
+## [Automotive Intelligence and Control of China Co., Ltd.](http://www.aicc-corp.cn/) (AICC)
 **Senior Autonomous Driving Motion Planning Engineer**  
 *July 2023 - Aug. 2024*
 
