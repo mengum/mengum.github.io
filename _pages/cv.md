@@ -17,7 +17,7 @@ Meng Meng (孟猛) &nbsp;|&nbsp; +86 13756221062 (WhatsApp/WeChat) &nbsp;|&nbsp;
 Education
 ======
 
-## University of Malaya, Malaysia
+## [University of Malaya, Malaysia](https://www.um.edu.my/)
 *Sep. 2022 - Present* &nbsp;|&nbsp; Master of Engineering Science by Research (MPhil / Full-time)  
 Supervisors: [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html)
 
@@ -34,7 +34,7 @@ Publication
 Research Experience
 ======
 
-## University of Malaya, Malaysia
+## [University of Malaya, Malaysia](https://www.um.edu.my/)
 **Multimodal Embodied Policy Co-Training with Imitation and Reinforcement Learning**  
 *Master of Engineering Science by Research, Sep. 2022 - Present*
 
