@@ -22,11 +22,8 @@ Education
 Supervisors: [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html)
 
 ## Beijing University of Technology (BJUT), China
-*Sep. 2017 - July 2021* &nbsp;|&nbsp; Computer Science and Technology | GPA: 82.39/100.00 | Outstanding Graduate  
-B.Eng. (2+2 Joint Degree with QNU), Full-time | National Project 211 University
-
-## Qinghai Nationalities University (QNU), China
-Computer Science and Technology | GPA: 87.97/100.00
+*Sep. 2017 - July 2021* &nbsp;|&nbsp; Computer Science and Technology | GPA: 87.97/100.00 (3.65/4.0) | Outstanding Graduate  
+B.Eng. (2+2 Joint Degree with Qinghai Nationalities University), Full-time | National Project 211 University
 
 Publication
 ======

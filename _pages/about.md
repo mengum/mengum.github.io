@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to an MPhil), which began in September 2022, under the supervision of [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html); I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from a joint programme between Beijing University of Technology (BJUT) and Qinghai Nationalities University (QNU).
+I am currently pursuing the Master of Engineering Science (Research) programme at the University of Malaya (equivalent to an MPhil), which began in September 2022, under the supervision of [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) and [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html); I had earlier received my Bachelor of Engineering (B.E.) in July 2021 from Beijing University of Technology (BJUT).
 
-我目前正在马来亚大学攻读工程科学硕士（研究型）学位（相当于MPhil），该学位于 2022 年 9 月开始，师从 [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) 和 [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html)；此前，我于 2021 年 7 月从北京工业大学和青海民族大学联合培养项目获得了工程学士学位。
+我目前正在马来亚大学攻读工程科学硕士（研究型）学位（相当于MPhil），该学位于 2022 年 9 月开始，师从 [Dr. Chuah Joon Huang](https://umexpert.um.edu.my/jhchuah.html) 和 [Dr. Anis Salwa Binti Mohd Khairuddin](https://umexpert.um.edu.my/anissalwa.html)；此前，我于 2021 年 7 月从北京工业大学获得了工程学士学位。
 
 I am a Senior Autonomous Driving Algorithm Engineer at Neolix Technologies Co., Ltd. (新石器慧通科技股份有限公司), where I develop end-to-end planning and decision-making algorithms for autonomous logistics vehicles. My work covers online visual mapping and environmental reasoning, road-network topology construction, and the navigation pipeline that converts global routing intent into lane-level reference lines for motion planning, on both structured and unstructured roads.
 
