@@ -71,7 +71,7 @@ Work Experience (Full-time)
 
 - **Lane Topology Completion & Merge/Diverge Construction**: Constructed lane geometric topology by matching vehicle trajectories with perceived centerlines to auto-generate self-consistent virtual lanes, boosting urban map completeness to over 90%. Designed a perception post-processing framework to suppress upstream noise, leveraging geometric cues like curb-to-lane distances to accurately localize and reliably connect complex merging and diverging zones into smooth, topologically valid structures.
 
-## [Automotive Intelligence and Control of China Co., Ltd.](http://www.aicc-corp.cn/) (AICC)
+## [Automotive Intelligence and Control of China Co., Ltd.](https://www.china-icv.cn/) (AICC)
 **Senior Autonomous Driving Motion Planning Engineer**  
 *July 2023 - Aug. 2024*
 
